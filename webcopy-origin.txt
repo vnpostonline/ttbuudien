@@ -1,0 +1,836 @@
+Uri: https://pg.megapay.vn/pg_was/js/payment/layer/paymentClient.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\pg_was\js\payment\layer\paymentClient.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\index.htm
+Content Type: text/html
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/112-588a5de8cf9554ba827b.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\112-588a5de8cf9554ba827b.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/1385-eab2eafc3a02b1f2981f.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\1385-eab2eafc3a02b1f2981f.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/3365-5b26cc297b43621af865.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\3365-5b26cc297b43621af865.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/3446-1e1c0b624dff0641a309.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\3446-1e1c0b624dff0641a309.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/3493-34e434351846a897886b.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\3493-34e434351846a897886b.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/3834-e4b43e26007ccc07a60a.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\3834-e4b43e26007ccc07a60a.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/4105-657cc5a1b25f56111968.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\4105-657cc5a1b25f56111968.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/417-b275147834d4485e9051.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\417-b275147834d4485e9051.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/4441-281445c81b04f3c6038f.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\4441-281445c81b04f3c6038f.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/5675-4fe1ecf173d47ff18085.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\5675-4fe1ecf173d47ff18085.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/652-4d55653481a4c86b85a2.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\652-4d55653481a4c86b85a2.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/6812-770607f1cedbf722a8b7.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\6812-770607f1cedbf722a8b7.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/7332-3ecf08a062064adaf513.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\7332-3ecf08a062064adaf513.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/7719-bb37bdc7b37f8766b3f3.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\7719-bb37bdc7b37f8766b3f3.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/7971-2f50ba402172d8d74e22.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\7971-2f50ba402172d8d74e22.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/9483-cd1f7458bca1eb2425da.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\9483-cd1f7458bca1eb2425da.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/9565-52117602a0ca391ab98a.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\9565-52117602a0ca391ab98a.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/framework-7612f137f39df1be4160.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\framework-7612f137f39df1be4160.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/main-c9fd106334430035c52d.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\main-c9fd106334430035c52d.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/pages/index-47e80f74c404597d561e.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\pages\index-47e80f74c404597d561e.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/pages/_app-f6a2d795cfbf1bc8eaaf.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\pages\_app-f6a2d795cfbf1bc8eaaf.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/polyfills-6e054d56079d4b93ebe8.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\polyfills-6e054d56079d4b93ebe8.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/chunks/webpack-b9d179441fb2b51fce87.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\chunks\webpack-b9d179441fb2b51fce87.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/css/3d939c2dfffdf7ef7f24.css
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\css\3d939c2dfffdf7ef7f24.css
+Content Type: text/css
+
+Uri: https://store.madebyphuong.com/_next/static/css/d5bdf3d0a36c6e67bfda.css
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\css\d5bdf3d0a36c6e67bfda.css
+Content Type: text/css
+
+Uri: https://store.madebyphuong.com/_next/static/media/ajax-loader.fb6f3c230cb846e25247dfaa1da94d8f.gif
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\media\ajax-loader.fb6f3c230cb846e25247dfaa1da94d8f.gif
+Content Type: image/gif
+
+Uri: https://store.madebyphuong.com/_next/static/media/slick.2630a3e3eab21c607e21576571b95b9d.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\media\slick.2630a3e3eab21c607e21576571b95b9d.svg
+Content Type: image/svg+xml
+
+Uri: https://store.madebyphuong.com/_next/static/media/slick.295183786cd8a138986521d9f388a286.woff
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\media\slick.295183786cd8a138986521d9f388a286.woff
+Content Type: font/woff
+
+Uri: https://store.madebyphuong.com/_next/static/media/slick.a4e97f5a2a64f0ab132323fbeb33ae29.eot
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\media\slick.a4e97f5a2a64f0ab132323fbeb33ae29.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://store.madebyphuong.com/_next/static/media/slick.a4e97f5a2a64f0ab132323fbeb33ae29.eot?
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\media\slick.a4e97f5a2a64f0ab132323fbeb33ae29-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://store.madebyphuong.com/_next/static/media/slick.c94f7671dcc99dce43e22a89f486f7c2.ttf
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\media\slick.c94f7671dcc99dce43e22a89f486f7c2.ttf
+Content Type: font/ttf
+
+Uri: https://store.madebyphuong.com/_next/static/vtEzRTivbzdzKMGr0xOOz/_buildManifest.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\vtEzRTivbzdzKMGr0xOOz\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://store.madebyphuong.com/_next/static/vtEzRTivbzdzKMGr0xOOz/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\_next\static\vtEzRTivbzdzKMGr0xOOz\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://w.ladicdn.com/18211/logo-1-20240402021939-omzar-20240516074813-syyqz.jpg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\18211\logo-1-20240402021939-omzar-20240516074813-syyqz.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/18211/logo-1-20240402021939-omzar-20240516081431-wpsox.jpg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\18211\logo-1-20240402021939-omzar-20240516081431-wpsox.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/18211/madebyphuong-20240516075102-ogg27.png
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\18211\madebyphuong-20240516075102-ogg27.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-access-alert-white.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-access-alert-white.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-access-alert.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-access-alert.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-account-check.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-account-check.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-camera.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-camera.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-caret-down-fill.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-caret-down-fill.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-country-vn.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-country-vn.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-date-time-picker.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-date-time-picker.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-delete-alert-white.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-delete-alert-white.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-delete-alert.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-delete-alert.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-download-data.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-download-data.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-fluent-people-team.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-fluent-people-team.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-info-alert-white.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-info-alert-white.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-info-alert.svg?v=1
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-info-alert.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-introduce-sign-up.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-introduce-sign-up.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-boxfile.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-boxfile.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-caret-down-fill.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-caret-down-fill.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-change-position.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-change-position.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-computer.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-computer.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-data-backup.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-data-backup.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-decentralize.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-decentralize.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-delete.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-delete.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-design.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-design.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-drag.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-drag.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-edit-name-tag.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-edit-name-tag.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-edit.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-edit.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-export-html.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-export-html.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-export-ladipage.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-export-ladipage.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-fb-group.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-fb-group.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-gmail.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-gmail.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-grid.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-grid.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-help.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-help.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-helper-document.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-helper-document.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-hide.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-hide.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-jampage.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-jampage.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-keyboard.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-keyboard.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-list.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-list.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-log-out.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-log-out.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-modal-close.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-modal-close.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-more.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-more.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-on-access-key.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-on-access-key.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-pause.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-pause.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-replication.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-replication.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-report-icon.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-report-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-return.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-return.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-setting-builder.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-setting-builder.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-setting-view.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-setting-view.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-ssl.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-ssl.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-status-enterprise.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-status-enterprise.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-status-premium.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-status-premium.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-status-pro.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-status-pro.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-status-starter.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-status-starter.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-status.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-status.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-status1.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-status1.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-status2.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-status2.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-template.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-template.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-time.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-time.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-url.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-url.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-ldp-view.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-ldp-view.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-menu-item1.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-menu-item1.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-menu-item10.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-menu-item10.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-menu-item11.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-menu-item11.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-menu-item12.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-menu-item12.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-menu-item2.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-menu-item2.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-menu-item3.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-menu-item3.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-menu-item4.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-menu-item4.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-menu-item5.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-menu-item5.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-menu-item6.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-menu-item6.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-menu-item7.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-menu-item7.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-menu-item8.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-menu-item8.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-menu-item9.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-menu-item9.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-noti-campain.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-noti-campain.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-noti-format.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-noti-format.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-noti-tick.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-noti-tick.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-prev.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-prev.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-search.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-search.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-upload-data.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-upload-data.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-warning-alert-white.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-warning-alert-white.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/icon-warning-alert.svg?v=1
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\icon-warning-alert.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ladi-loading.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ladi-loading.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-add-member.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-add-member.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-add.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-add.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-arrow-left.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-arrow-up.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-arrow-up.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-attached.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-attached.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-backward.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-backward.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-calendar.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-calendar.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-call.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-call.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-check.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-check.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-chevron-down.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-chevron-down.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-chevron-left.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-chevron-left.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-chevron-right.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-chevron-right.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-chevron-up.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-chevron-up.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-circle-add.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-circle-add.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-circle-check.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-circle-check.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-circle-close.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-circle-close.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-clock.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-clock.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-close.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-close.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-colored-call.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-colored-call.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-colored-circle-check.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-colored-circle-check.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-colored-star.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-colored-star.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-contacts.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-contacts.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-copy.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-copy.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-delivery-truck.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-delivery-truck.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-discount-coupon.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-discount-coupon.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-download.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-download.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-edit.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-edit.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-forward.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-forward.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-global.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-global.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-grid.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-grid.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-help.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-help.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-hide.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-hide.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-image.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-image.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-import.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-import.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-info.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-info.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-list.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-list.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-location.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-location.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-mail.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-marketplacex.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-marketplacex.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-menu.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-menu.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-message.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-message.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-money.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-money.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-new-file.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-new-file.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-notify.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-notify.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-search.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-search.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-shape.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-shopping-bag.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-shopping-bag.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-shopping-cart.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-shopping-cart.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-show.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-show.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-tag.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-tag.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-team.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-team.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-timer.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-timer.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-user.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-user.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-video.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-video.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicon-warning.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicon-warning.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/ldicourse-no-data.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\ldicourse-no-data.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-add-circle.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\new-ldicon-add-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-arrow-down.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\new-ldicon-arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-arrow-right.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\new-ldicon-arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-bankcard.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\new-ldicon-bankcard.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-cart.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\new-ldicon-cart.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-close-fill-2.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\new-ldicon-close-fill-2.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-copy.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\new-ldicon-copy.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-coupon.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\new-ldicon-coupon.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-delete.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\new-ldicon-delete.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-filedownload-fill.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\new-ldicon-filedownload-fill.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-fill-cart.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\new-ldicon-fill-cart.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-link2.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\new-ldicon-link2.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-money.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\new-ldicon-money.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-timer.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\new-ldicon-timer.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/icons/new-ldicon-user.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\icons\new-ldicon-user.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/ladipage/icon-black-list.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\ladipage\icon-black-list.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/ladipage/icon-report.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\ladipage\icon-report.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/ladipage/icon-stop.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\ladipage\icon-stop.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/ladisales/icons/icon-add-product.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\ladisales\icons\icon-add-product.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/ladisales/icons/icon-add-quantity.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\ladisales\icons\icon-add-quantity.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/ladisales/icons/icon-calendar.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\ladisales\icons\icon-calendar.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/ladisales/icons/icon-close-no-bg.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\ladisales\icons\icon-close-no-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/ladisales/icons/icon-delete-cart.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\ladisales\icons\icon-delete-cart.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/ladisales/icons/icon-subtract-quantity.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\ladisales\icons\icon-subtract-quantity.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/ladisales/icons/ldicon-flashsale.svg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\ladisales\icons\ldicon-flashsale.svg
+Content Type: image/svg+xml
+
+Uri: https://w.ladicdn.com/ladiui/ladiui.min.css?v=2.0
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\ladiui.min.css
+Content Type: text/css
+
+Uri: https://w.ladicdn.com/ladiui/ladiui.min.js?v=2.0
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\ladiui\ladiui.min.js
+Content Type: text/javascript
+
+Uri: https://w.ladicdn.com/s500/18211/giam-tao-chai-250ml-20240602063313-djqlz.jpg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\s500\18211\giam-tao-chai-250ml-20240602063313-djqlz.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s500/18211/giam-tao-chai-500ml-20240602062923-vllgd.jpg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\s500\18211\giam-tao-chai-500ml-20240602062923-vllgd.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s500/18211/giam-tao-tui-500ml-20240602063034-5oob_.jpg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\s500\18211\giam-tao-tui-500ml-20240602063034-5oob_.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s500/18211/giam-tao-tui-500ml-20240602063116-o6kt-.jpg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\s500\18211\giam-tao-tui-500ml-20240602063116-o6kt-.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s500/18211/giam-tao-tui-500ml-20240602063154-zkriw.jpg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\s500\18211\giam-tao-tui-500ml-20240602063154-zkriw.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s500/18211/kstn-nguoi-lon-20240701085046-ziztq.jpg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\s500\18211\kstn-nguoi-lon-20240701085046-ziztq.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s500/18211/kstn-ok-20240520085801-w_ja7.jpg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\s500\18211\kstn-ok-20240520085801-w_ja7.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s500/18211/kstn-ok1-20240520085101-bcuwx.jpg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\s500\18211\kstn-ok1-20240520085101-bcuwx.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s500/18211/kstn-ok2-20240520083533-t_sed.jpg
+File Name: C:\Downloaded Web Sites\store.madebyphuong.com\s500\18211\kstn-ok2-20240520083533-t_sed.jpg
+Content Type: image/jpeg
+
